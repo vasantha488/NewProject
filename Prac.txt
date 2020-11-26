@@ -1,1 +1,2 @@
-hi am enter this text from local to remote
+Hi this is first practice file in git
+this changes made in local
